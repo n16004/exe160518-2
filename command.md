@@ -1,14 +1,14 @@
 ## コマンドの説明
 
 1. grep - ファイル中からデータを検索する
-1. touch
-1. head
-1. tail
-1. sort
-1. uniq
-1. tr
-1. diff
-1. useradd
+1. touch - ファイルを作成
+1. head　−　上から１０番目を表示
+1. tail　−　下から１０番目を表示
+1. sort　−　並び替え
+1. uniq　➖　重複をなくす
+1. tr　−　置き換え
+1. diffー　ファイルの違いを探す　
+1. useradd　−　
 1. usermod
 1. userdel
 1. groupadd
